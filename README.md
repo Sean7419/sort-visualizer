@@ -3,7 +3,7 @@
 This program uses Tkinter to setup a GUI to allow a user to generate and select variables for the sorting algorithm visualization
 
 CURRENT PROGRESS
-  - Bubble Sort: Written 08/26/21 @10:00 and visualized 08/26/21 @117:00
+  - Bubble Sort: Written 08/26/21 @10:00 and visualized 08/26/21 @17:00
   - Merge Sort: Written 08/26/21 @10:30 and visualized 08/26/21 @17:30
   - GUI with Tkinter: Written 08/26/21 @13:00
 
